@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="box">
-            <h1 class="title is-2 has-text-centered"><span class="has-text-500">Ar</span><span class="has-text-700">Link</span></h1>
+            <h1 class="title is-2 has-text-centered"><span class="has-text-500">Ar</span><span class="has-text-700">Link New</span></h1>
             <div class="columns">
               <div class="column">
                 <input class="input is-medium" type="text" placeholder="Address" v-model="address">
